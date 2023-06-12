@@ -1,4 +1,5 @@
 # SQL-Prueba
 Video Prueba módulo SQL Academia Desafío Latam
 
-# Profesor Eduardo, estaré subiendo pronto el video de la prueba y dejaré el link aquí.
+#Link video prueba:
+https://www.loom.com/share/07d436dfd1214ae6aa1c1db9379766c0
